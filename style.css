@@ -7,7 +7,7 @@ img {
   margin-right: auto;
 }
 h2 {
-  color: #22B26A;
+  color:#39603D ;
 }
 table {
   text-align: center;
@@ -17,16 +17,16 @@ body {
   text-align: center;
 }
 html {
-  background-color:#414a4c;
+  background-color:#DADED4;
 }
 html body {
-  color: black;
+  color: #3C403D;
 }
 
 #circle {
   width: 30px;
   height: 30px;
-  border-radius: 50%
+  border-radius: 70%
 }
 #circle :hover{
   width: 30px;
